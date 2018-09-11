@@ -1,0 +1,6 @@
+[package]
+name = "hashlife"
+version = "0.1.0"
+authors = ["Victor Milovanov"]
+
+[dependencies]
