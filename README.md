@@ -1,0 +1,1 @@
+An implementation of [Hashlife, An Algorithm for Compressing Space and Time](http://www.drdobbs.com/jvm/an-algorithm-for-compressing-space-and-t/184406478)
